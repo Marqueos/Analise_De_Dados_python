@@ -7,7 +7,8 @@ Este projeto, desenvolvido em Python, tem como objetivo automatizar o processo d
 ## Funcionalidades Principais
 Extração de Datas: Utilizando bibliotecas poderosas em Python, o projeto varre arquivos PDF em uma biblioteca e extrai informações temporais, identificando e capturando datas relevantes.
 
-## Organização em Planilhas: As datas extraídas são estruturadas de maneira intuitiva em duas planilhas distintas, facilitando a visualização e análise posterior. Uma planilha destaca os arquivos e datas, ja a outra planilha destaca quantidade de PDF por data.
+## Organização em Planilhas: 
+As datas extraídas são estruturadas de maneira intuitiva em duas planilhas distintas, facilitando a visualização e análise posterior. Uma planilha destaca os arquivos e datas, ja a outra planilha destaca quantidade de PDF por data.
 ![image](https://github.com/Marqueos/Analise_De_Dados_python/assets/104273842/15734f6b-b388-43ce-8090-dc5104c6e548)
 
 ## Contribuições e Melhorias
